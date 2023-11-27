@@ -1,0 +1,13 @@
+:root {
+  font-family: system-ui;
+  color-scheme: light dark;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+
+  --color-primary: #b3b2d4;
+  --color-secondary: #a7a7c7;
+  --color-text: #ffffff;
+  --color-button: #6661a3;
+  --color-button-hover: #5e5b8c;
+}
