@@ -8,12 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Ejercicio 6
-Desarrollar el registro de una página web, en el registro tener los siguientes campos:
-● Nombre
-● Apellido
-● Email
-● Teléfono
-● Password
-● Confirmar password
+Desarrollar el registro de una página web, en el registro tener los siguientes campos: Nombre, Apellido, Email,Teléfono, Password, Confirmar password.
 
 Realizar solo el maquetado utilizando react js y JSX, no se deben guardar los usuarios ni realizar lógica de validación de los mismos.
